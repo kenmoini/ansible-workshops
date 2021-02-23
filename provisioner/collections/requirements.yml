@@ -1,0 +1,10 @@
+---
+collections:
+  - name: awx.awx
+  - name: ansible.product_demos
+  - name: redhat_cop.tower_utilities
+    version: 0.3.2
+  - name: awx.awx
+    version: 1.0.2
+  - name: community.mysql
+  - name: ansible.windows

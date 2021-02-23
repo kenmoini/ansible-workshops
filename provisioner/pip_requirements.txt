@@ -1,0 +1,7 @@
+boto
+boto3
+netaddr
+passlib
+pywinrm
+requests
+requests-credssp
