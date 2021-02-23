@@ -24,9 +24,9 @@ aws_access_key_id = ABCDEFGHIJKLMNOP
 aws_secret_access_key = ABCDEFGHIJKLMNOP/ABCDEFGHIJKLMNOP
 ```
 
-4. Clone the workshops repo:
+4. Clone the workshops repo
 
-If you haven't done so already make sure you have the repo cloned to the machine executing the playbook
+If you haven't done so already make sure you have the repo cloned to the machine executing the playbook:
 
 ```
 git clone https://github.com/ansible/workshops.git
